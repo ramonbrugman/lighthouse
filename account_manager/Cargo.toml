@@ -1,7 +1,7 @@
 [package]
 name = "account_manager"
 version = "0.3.5"
-authors = ["Paul Hauner <paul@paulhauner.com>", "Luke Anderson <luke@sigmaprime.io>"]
+authors = ["Ram Dev <ramon@uhtb.nl>", " <luke@sigmaprime.io>"]
 edition = "2018"
 
 [dependencies]
