@@ -7,7 +7,7 @@ edition = "2018"
 [dependencies]
 tempfile = "3.1.0"
 types = { path = "../../consensus/types" }
-rusqlite = { version = "0.25.3", features = ["bundled"] }
+rusqlite = { version = "0.25.4", features = ["bundled"] }
 r2d2 = "0.8.9"
 r2d2_sqlite = "0.18.0"
 serde = "1.0.116"
